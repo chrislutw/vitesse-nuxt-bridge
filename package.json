@@ -12,7 +12,7 @@
     "@nuxt/kit-edge": "latest",
     "@unocss/nuxt": "^0.26.3",
     "@vue/runtime-dom": "^3.2.31",
-    "@vueuse/core": "^7.6.2",
+    "@vueuse/nuxt": "^7.7.1",
     "eslint": "^8.10.0",
     "nuxi-edge": "latest",
     "nuxt-edge": "latest",

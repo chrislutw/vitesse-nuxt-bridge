@@ -3,7 +3,7 @@ import { defineNuxtConfig } from '@nuxt/bridge-edge'
 export default defineNuxtConfig({
   buildModules: [
     '@unocss/nuxt',
-    '@vueuse/core/nuxt',
+    '@vueuse/nuxt',
     '@nuxt/bridge-edge',
   ],
   css: [
